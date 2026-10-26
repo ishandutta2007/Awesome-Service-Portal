@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Service-Portal/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Service-Portal?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Service-Portal/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Service-Portal?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Service-Portal/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="MIT License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow"/></a>
@@ -67,72 +67,72 @@ The market structure is **moderately concentrated at the top and highly fragment
 
 *The following open-source projects provide complete data sovereignty, custom self-service portal extensibility, and zero per-seat licensing fees. Repositories are ranked in descending order by GitHub stargazer count.*
 
-### 1. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
+### 1. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
 - 🏷️ **Tech Stack:** Ruby on Rails, Vue.js, PostgreSQL, Redis
 - 📜 **License:** AGPL-3.0
 - 💡 **Overview:** An open-source, omnichannel customer engagement and helpdesk suite. Features a customer self-service Help Center portal, live chat widget, email piping, and automated bot integrations for rapid ticket deflection.
 
-### 2. **[UVdesk Community](https://github.com/uvdesk/community-skeleton)** [![GitHub stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers)
+### 2. **[UVdesk Community](https://github.com/uvdesk/community-skeleton)** [![GitHub_Stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers)
 - 🏷️ **Tech Stack:** PHP (Symfony framework), MySQL
 - 📜 **License:** MIT
 - 💡 **Overview:** A modular, full-featured enterprise helpdesk portal. Delivers an extensive customer ticketing portal, customizable knowledge base, SLA management, automated dispatch workflows, and an extensible bundle architecture.
 
-### 3. **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)
+### 3. **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)
 - 🏷️ **Tech Stack:** PHP, MariaDB/MySQL, JavaScript
 - 📜 **License:** GPL-3.0
 - 💡 **Overview:** Comprehensive open-source IT asset management (ITAM) and service desk application. Offers ITIL-aligned service catalogs, a customizable requester self-service portal, project management, financial tracking, and SLA enforcement.
 
-### 4. **[Zammad](https://github.com/zammad/zammad)** [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)
+### 4. **[Zammad](https://github.com/zammad/zammad)** [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)
 - 🏷️ **Tech Stack:** Ruby on Rails, WebSocket, PostgreSQL, Elasticsearch
 - 📜 **License:** AGPL-3.0
 - 💡 **Overview:** Modern web-based helpdesk and issue-tracking system. Features a sleek, responsive customer portal where users submit and track tickets, search integrated knowledge bases, and interact via multi-channel communications (email, chat, telephone, SMS).
 
-### 5. **[FreeScout](https://github.com/freescout-help-desk/freescout)** [![GitHub stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)
+### 5. **[FreeScout](https://github.com/freescout-help-desk/freescout)** [![GitHub_Stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)
 - 🏷️ **Tech Stack:** PHP (Laravel framework), MySQL
 - 📜 **License:** AGPL-3.0
 - 💡 **Overview:** Lightweight, self-hosted alternative to Zendesk and Help Scout. Provides an intuitive customer portal, shared inbox management, multi-lingual knowledge base, LDAP/SAML authentication, and mobile-ready interface.
 
-### 6. **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)
+### 6. **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub_Stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)
 - 🏷️ **Tech Stack:** PHP, MySQL
 - 📜 **License:** GPL-2.0
 - 💡 **Overview:** Proven, widely deployed open-source support ticket platform. Features a dedicated customer service portal for ticket tracking and creation, customizable form fields, auto-responders, internal notes, and role-based access control.
 
-### 7. **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** [![GitHub stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers)
+### 7. **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers)
 - 🏷️ **Tech Stack:** Python (Frappe Framework), Vue 3, MariaDB/PostgreSQL
 - 📜 **License:** GPL-3.0
 - 💡 **Overview:** Modern, streamlined customer service and internal support platform. Includes dual dedicated portals for agents and requesters, SLA tracking, automated routing rules, integrated knowledge base search, and Docker-first deployment.
 
-### 8. **[Peppermint](https://github.com/Peppermint-Lab/peppermint)** [![GitHub stars](https://img.shields.io/github/stars/Peppermint-Lab/peppermint?style=social&color=white)](https://github.com/Peppermint-Lab/peppermint/stargazers)
+### 8. **[Peppermint](https://github.com/Peppermint-Lab/peppermint)** [![GitHub_Stars](https://img.shields.io/github/stars/Peppermint-Lab/peppermint?style=social&color=white)](https://github.com/Peppermint-Lab/peppermint/stargazers)
 - 🏷️ **Tech Stack:** Node.js, Next.js, React, MongoDB
 - 📜 **License:** GPL-3.0
 - 💡 **Overview:** Lightweight, modern open-source ticket management and help desk system. Offers a clean client portal interface, markdown documentation integration, email piping, and straightforward Docker Compose orchestration.
 
-### 9. **[Helpy](https://github.com/helpyio/helpy)** [![GitHub stars](https://img.shields.io/github/stars/helpyio/helpy?style=social&color=white)](https://github.com/helpyio/helpy/stargazers)
+### 9. **[Helpy](https://github.com/helpyio/helpy)** [![GitHub_Stars](https://img.shields.io/github/stars/helpyio/helpy?style=social&color=white)](https://github.com/helpyio/helpy/stargazers)
 - 🏷️ **Tech Stack:** Ruby on Rails, PostgreSQL
 - 📜 **License:** MIT
 - 💡 **Overview:** Mobile-first, multi-channel help desk application. Features an integrated customer self-service knowledge base, community support forums, ticketing portal, and multi-language localization.
 
-### 10. **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)
+### 10. **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub_Stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)
 - 🏷️ **Tech Stack:** Node.js, MongoDB, Elasticsearch
 - 📜 **License:** Apache-2.0
 - 💡 **Overview:** Real-time open-source help desk and ticketing software. Equipped with a responsive end-user portal, real-time ticket updates via WebSockets, SLA management, and customizable service catalogs.
 
-### 11. **[Faveo Helpdesk](https://github.com/faveosuite/faveo-helpdesk)** [![GitHub stars](https://img.shields.io/github/stars/faveosuite/faveo-helpdesk?style=social&color=white)](https://github.com/faveosuite/faveo-helpdesk/stargazers)
+### 11. **[Faveo Helpdesk](https://github.com/faveosuite/faveo-helpdesk)** [![GitHub_Stars](https://img.shields.io/github/stars/faveosuite/faveo-helpdesk?style=social&color=white)](https://github.com/faveosuite/faveo-helpdesk/stargazers)
 - 🏷️ **Tech Stack:** PHP (Laravel framework), MySQL
 - 📜 **License:** OSL-3.0
 - 💡 **Overview:** Enterprise-ready ticketing and helpdesk application. Supplies a customizable self-service portal with FAQ integration, multi-channel ticket logging, SLA rules, and dynamic request form fields.
 
-### 12. **[Request Tracker (RT)](https://github.com/bestpractical/rt)** [![GitHub stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers)
+### 12. **[Request Tracker (RT)](https://github.com/bestpractical/rt)** [![GitHub_Stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers)
 - 🏷️ **Tech Stack:** Perl, PostgreSQL/MySQL
 - 📜 **License:** GPL-2.0
 - 💡 **Overview:** Industrial-strength, high-volume issue tracking and service management platform. Deployed by universities, government entities, and enterprises globally for customer service, incident response, and custom workflow tracking.
 
-### 13. **[Znuny](https://github.com/znuny/Znuny)** [![GitHub stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers)
+### 13. **[Znuny](https://github.com/znuny/Znuny)** [![GitHub_Stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers)
 - 🏷️ **Tech Stack:** Perl, JavaScript, MariaDB/PostgreSQL
 - 📜 **License:** GPL-3.0
 - 💡 **Overview:** Active open-source continuation of the classic OTRS ITSM platform. Provides an enterprise customer self-service portal, ITIL service catalogs, CMDB integrations, ticket merging/splitting, and automated escalation workflows.
 
-### 14. **[FreeITSM](https://github.com/edmozley/freeitsm)** [![GitHub stars](https://img.shields.io/github/stars/edmozley/freeitsm?style=social&color=white)](https://github.com/edmozley/freeitsm/stargazers)
+### 14. **[FreeITSM](https://github.com/edmozley/freeitsm)** [![GitHub_Stars](https://img.shields.io/github/stars/edmozley/freeitsm?style=social&color=white)](https://github.com/edmozley/freeitsm/stargazers)
 - 🏷️ **Tech Stack:** Python, Django, SQLite/PostgreSQL
 - 📜 **License:** AGPL-3.0
 - 💡 **Overview:** Privacy-centric, lightweight ITSM tool. Features multi-tenancy for Managed Service Providers (MSPs), Active Directory employee sync, webhook notifications (Slack/Teams/Discord), and historical uptime status tracking.
